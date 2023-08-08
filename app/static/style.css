@@ -1,0 +1,12 @@
+:root{
+    --red: red;
+    --blue: rgb(80, 80, 160);
+}
+
+body{
+    background-color: var(--red);
+}
+
+.rock-h21{ 
+    color: var(--blue);
+}
